@@ -1,39 +1,6 @@
 
-# React Weather App - HootBoard
+# React Weather App 
 This is a simple ReactJS weather application that displays the current weather conditions for a given location.
-
-## Live Link
-[https://weatherapp-hootboard.netlify.app/](https://weatherapp-hootboard.netlify.app/) 
-
-
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/jaiswalashutosh/react-weather-app.git
-```
-
-Go to the project directory
-
-```bash
-  cd react-weather-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-
 
 ## APIs Used
 
